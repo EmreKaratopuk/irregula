@@ -1,16 +1,15 @@
-# irregula
+# Irregula
 
 A useful irregular verbs practice application.
 
+The source of irregular verbs -> https://www.perfect-english-grammar.com/irregular-verbs.html
+
+**Quick Note:** The ".apk" file can be found in the main folder or [here](https://github.com/EmreKaratopuk/irregula/blob/master/Irregula.apk)
+
 ## Getting Started
+The application chooses irregular verbs from a list randomly. Moreover, the app chooses the forms of verbs randomly.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+The chosen verb can be placed in a blank by pressing the add (+) button.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width=360 height=720 src="https://user-images.githubusercontent.com/61318808/164885835-f56113d4-5290-4976-95b4-0c2f725d1c54.gif">
